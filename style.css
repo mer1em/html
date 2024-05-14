@@ -1,18 +1,16 @@
-.h1{
-    color: red;
+body{
+    background-image: url(bck.png);
+    background-repeat: no-repeat;
 }
-.p1{
-    color: rgb(40, 40, 39);
+h2{
+    color: rgba(195, 195, 195, 1);
 }
-.h2{
-    color: blue;
+h4{
+    color: rgba(195, 195, 195, 1);
 }
-.p2{
-    color: red;
+h5{
+    color: rgba(195, 195, 195, 1);
 }
-.h3{
-    color: black;
-}
-.p3{
-    color: black;
+p{
+    color: rgba(255, 255, 255, 1);
 }
