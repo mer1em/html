@@ -1,11 +1,19 @@
-body{
-    padding-top: 73px;
-    padding-left: 109px;
+.h3{
+   color: red;
+   margin-top: 12px;
+   margin-left: 10px;
 }
-.box{
-    width: 320px;
-    border: 1px solid rgba(180, 180, 180, 1);
+.list{
+    margin-top: 54px;
+    margin-left: 91px;
+}
+.img{
+    width: 186px;
+    height: 109px;
+    margin-top: 307px;
+    margin-left: 79px;
 }
 p{
-    color: rgba(128, 128, 128, 1);
+    margin-top: 434px;
+    margin-left: 10px;
 }
