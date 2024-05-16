@@ -1,19 +1,24 @@
-.h3{
-   color: red;
-   margin-top: 12px;
-   margin-left: 10px;
+.box{
+    width: 550px;
+    border: 1px solid rgba(180, 180, 180, 1);
+    margin-top: 16px;
+    margin-left: 15px;
 }
-.list{
-    margin-top: 54px;
-    margin-left: 91px;
-}
-.img{
-    width: 186px;
-    height: 109px;
-    margin-top: 307px;
-    margin-left: 79px;
+h2{
+    padding-top: 10x;
+    padding-left: 134px;
 }
 p{
-    margin-top: 434px;
-    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 134px;
+}
+img{
+    width: 305px;
+    height: 226px;
+    padding-top: 10px;
+    padding-left: 134px;
+}
+a{
+    padding-top: 10px;
+    padding-left: 134px;
 }
