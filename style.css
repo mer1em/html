@@ -1,24 +1,14 @@
-.box{
-    width: 550px;
-    border: 1px solid rgba(180, 180, 180, 1);
-    margin-top: 16px;
-    margin-left: 15px;
+@font-face{
+    font-family: "p1";
+    src: url(fonts/OldStandardTT-Regular.ttf);
 }
 h2{
-    margin-top: 10x;
-    margin-left: 134px;
+    text-align: center;
 }
-p{
-    margin-top: 10px;
-    margin-left: 134px;
+.p1{
+    font-family: p1;
 }
-img{
-    width: 305px;
-    height: 226px;
-    margin-top: 10px;
-    margin-left: 134px;
-}
-a{
-    margin-top: 10px;
-    margin-left: 134px;
+.p2{
+    font-family: p1;
+    text-align: justify;
 }
