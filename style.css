@@ -1,14 +1,15 @@
-@font-face{
-    font-family: "p1";
-    src: url(fonts/OldStandardTT-Regular.ttf);
+a:link{
+    color: green;
 }
-h2{
-    text-align: center;
+a:hover{
+    background-color: yellow;
 }
-.p1{
-    font-family: p1;
+a:active{
+    color: blue;
+    font-size: 40px;
 }
-.p2{
-    font-family: p1;
-    text-align: justify;
+a:visited{
+    color: purple;
+    background-color: black;
+    font-size: 50px;
 }
