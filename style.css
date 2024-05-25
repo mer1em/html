@@ -1,9 +1,17 @@
+.container{
+    width: 1043px;
+    height: 527px;
+    margin-left: auto;
+    margin-right: auto;
+}
 table{
     border-collapse: collapse;
     border-color: rgba(218, 218, 218, 1);
+    width: 100%;
 }
 th{
     background-color: rgba(249, 249, 249, 1);
+    height: 57px;
 }
 .date{
     color: red;
@@ -12,12 +20,8 @@ th{
     text-align: center;
 }
 .action{
-    width: 251px;
-    height: 57px;
     text-align: center;
-    background: rgba(255, 212, 58, 1);
 }
-
 .id{
     text-align: center;
     width: 72px;
@@ -26,4 +30,12 @@ th{
 .title{
     width: 444px;
     height: 57px;
+}
+button{
+    padding-left: auto;
+    padding-right: auto;
+    width: 115px;
+    height: 36px;
+    background-color: rgba(255, 212, 58, 1);
+    border: none;
 }
