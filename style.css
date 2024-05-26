@@ -30,6 +30,7 @@
 .title{
     width: 444px;
     height: 57px;
+    padding-left: 10px;
 }
 .yellow{
     padding-left: auto;
@@ -79,5 +80,4 @@ button{
 }
 label{
     padding-left: 10px;
-    text-decoration: bold;
 }
