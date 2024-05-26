@@ -1,15 +1,15 @@
 .container{
-    width: 1043px;
-    height: 527px;
+    width: 1156px;
+    height: 504px;
     margin-left: auto;
     margin-right: auto;
 }
-table{
+.table{
     border-collapse: collapse;
     border-color: rgba(218, 218, 218, 1);
     width: 100%;
 }
-th{
+.th2{
     background-color: rgba(249, 249, 249, 1);
     height: 57px;
 }
@@ -31,11 +31,53 @@ th{
     width: 444px;
     height: 57px;
 }
-button{
+.yellow{
     padding-left: auto;
     padding-right: auto;
     width: 115px;
     height: 36px;
     background-color: rgba(255, 212, 58, 1);
     border: none;
+}
+.red{
+    padding-left: auto;
+    padding-right: auto;
+    width: 115px;
+    height: 36px;
+    background-color: red;
+    border: none; 
+}
+.input1 {
+    width: 201px;
+    height: 45px;
+    padding-left: 10px;
+    border: 1px solid rgba(224, 224, 224, 1);
+    border-radius: 10px;
+    
+}
+.input2{
+    width: 593px;
+    height: 45px;
+    padding-left: 10px;
+    border: 1px solid rgba(224, 224, 224, 1);
+    border-radius: 10px;
+}
+.input3{
+    width: 201px;
+    height: 45px;
+    padding-left: 10px;
+    border: 1px solid rgba(224, 224, 224, 1);
+    border-radius: 10px;
+}
+button{
+    width: 115px;
+    height: 45px;
+    text-align: center;
+    border-radius: 10px;
+    background: rgba(255, 212, 58, 1);
+    border: none;
+}
+label{
+    padding-left: 10px;
+    text-decoration: bold;
 }
