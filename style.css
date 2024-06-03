@@ -2,6 +2,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: inter;
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
 .container{
     width: 1156px;
     height: 504px;
@@ -22,12 +26,17 @@
     width: 276px;
     height: 57px;
     text-align: center;
+    font-family: inter;
 }
 .action{
     text-align: center;
+    font-family: inter;
+
 }
 .id{
     text-align: center;
+    font-family: inter;
+
     width: 72px;
     height: 57px;
 }
@@ -35,6 +44,8 @@
     width: 444px;
     height: 57px;
     padding-left: 10px;
+    font-family: inter;
+
 }
 .yellow{
     padding-left: auto;
@@ -81,7 +92,16 @@
     border-radius: 10px;
     background: rgba(255, 212, 58, 1);
     border: none;
+    font-family: inter;
+
 }
 label{
     padding-left: 10px;
+    font-family: inter;
+
+}
+h3{
+    margin-top: 38px;
+    font-family: inter;
+
 }
