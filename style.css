@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
 .container{
     width: 1156px;
     height: 504px;
